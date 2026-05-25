@@ -136,7 +136,7 @@ html, body {
     width: 100%;
     height: auto;
     object-fit: contain;
-    filter: drop-shadow(0 0 15px #f7f5f6);
+    filter: drop-shadow(0 0 15px #f7f5f6)
 }
 
 /* Ajuste mobile para o logo não ocupar a tela toda */
